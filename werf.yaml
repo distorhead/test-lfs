@@ -1,0 +1,5 @@
+project: test-lfs
+configVersion: 1
+---
+image: x
+dockerfile: ./Dockerfile
